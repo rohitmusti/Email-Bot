@@ -11,8 +11,8 @@ This is my fun little email bot that sends out emails given a CSV. It performs s
 1. Download this code repository.
 1. Navigate to the code repostory using you command line or terminal client. 
 
-        - [For Mac/Linux users](https://medium.freecodecamp.org/conquering-the-command-line-f85f5e46c07c)
+    - [For Mac/Linux users](https://medium.freecodecamp.org/conquering-the-command-line-f85f5e46c07c)
 
-        - [For Windows users](https://www.bleepingcomputer.com/tutorials/windows-command-prompt-introduction/)
+    - [For Windows users](https://www.bleepingcomputer.com/tutorials/windows-command-prompt-introduction/)
 1. Run the command `python3 email-bot.py` to run the code and send emails.
         - Please note, you may need to adjust the actual message being sent by updating the message inside of the code
