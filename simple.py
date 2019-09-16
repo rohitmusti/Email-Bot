@@ -77,9 +77,9 @@ def sendMessage(smtpServer, port, fromAddress, toAddress, message):
 def main():
         smtpServer = "128.143.2.9"
         port = "25"
-        fromAddress = "president@whitehouse.gov"
-        toAddress = "ro@virginia.edu"
-        message = input()
+        fromAddress = input("from address: ")
+        toAddress = input("to address: ")
+        message = input("message: ")
         sendMessage(smtpServer, port, fromAddress, toAddress, message)
 
 
